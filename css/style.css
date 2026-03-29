@@ -1,0 +1,36 @@
+/*slide down*/
+#sl1, #sl2 ,#sl3, #sl4 , #sl5, #sl6 {
+  padding: 5px;
+  text-align: center;
+  background-color: lightpink;
+  border: solid 1px #c3c3c3;
+}
+
+#sl2 {
+  padding: 50px;
+}
+#sl4 , #sl6{
+  padding: 50px;
+  display: none;
+}
+#st1, #st2 {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: lightpink;
+  color: white;
+  border: solid 1px deeppink;
+  border-radius: 3px;
+}
+#st2 {
+  padding: 50px;
+  display: none;
+}
+.ani1{
+  background:#98bf21;
+  height:100px;
+  width:100px;
+  position:absolute;
+  padding-bottom: 100px;
+}
+
